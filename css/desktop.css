@@ -1,0 +1,73 @@
+h2{
+    padding-top: 6rem;
+    padding-bottom: 0;
+    font-size: 2rem;
+}
+
+
+.header{
+    height: 150px;
+}
+.header img {
+    width: 100%;
+}
+
+.logo{
+    margin-left: 30px;
+}
+.score-div{
+    width: 20%;
+    height: 114px;
+}
+.score-div p{
+
+    font-size: 1.6rem;
+}
+.score-div h1{
+    font-size: 5.6rem;
+}
+
+.selection{
+    justify-content: space-between;
+    width: 800px;
+   
+}
+
+.selection .btn{
+    margin: 50px;
+}
+
+.btn-rules {
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+
+}
+
+.selection .reset{
+    order: 2;
+    position: initial;
+    bottom: 4rem;
+    left: auto;
+    width: 50%;
+    margin: 5rem auto;
+}
+
+.house-pick{
+    order: 3;
+}
+
+
+
+.btn{
+width: 150px;
+height: 150px;
+}
+
+.btn .wrapper{
+    height: 120px;
+    width: 120px;
+}
+.game{
+    width: 400px;
+}
